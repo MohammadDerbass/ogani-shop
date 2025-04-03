@@ -1,3 +1,27 @@
+# Ogani Shop 🛒
+
+واجهة متجر إلكتروني بسيطة باستخدام React و Bootstrap مستوحاة من تصميم Ogani الرسمي.
+
+## 💻 التقنيات المستخدمة:
+
+- React
+- React Router DOM
+- React Bootstrap
+- React Slick (سلايدر)
+- Slick Carousel
+- React Icons
+- Bootstrap 5
+
+## 🚀 خطوات التشغيل:
+
+1. تأكد من وجود Node.js و npm على جهازك.
+2. شغّل الأوامر التالية:
+
+```bash
+npm install
+npm start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
